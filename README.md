@@ -5,11 +5,6 @@ Foreign Function Interface for Python calling C code.
 Please see the [Documentation](http://cffi.readthedocs.org/) or uncompiled
 in the doc/ subdirectory.
 
-Download
---------
-
-[Download page](https://github.com/python-cffi/cffi/releases)
-
 Source Code
 -----------
 
